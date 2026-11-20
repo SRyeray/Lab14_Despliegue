@@ -1,0 +1,7 @@
+C:\Users\Tecsup\RiderProjects\Lab14_Despliegue\Lab14_Despliegue\bin\Release\net10.0\publish\Lab14_Despliegue.exe
+C:\Users\Tecsup\RiderProjects\Lab14_Despliegue\Lab14_Despliegue\bin\Release\net10.0\publish\appsettings.Development.json
+C:\Users\Tecsup\RiderProjects\Lab14_Despliegue\Lab14_Despliegue\bin\Release\net10.0\publish\appsettings.json
+C:\Users\Tecsup\RiderProjects\Lab14_Despliegue\Lab14_Despliegue\bin\Release\net10.0\publish\Lab14_Despliegue.dll
+C:\Users\Tecsup\RiderProjects\Lab14_Despliegue\Lab14_Despliegue\bin\Release\net10.0\publish\Lab14_Despliegue.deps.json
+C:\Users\Tecsup\RiderProjects\Lab14_Despliegue\Lab14_Despliegue\bin\Release\net10.0\publish\Lab14_Despliegue.runtimeconfig.json
+C:\Users\Tecsup\RiderProjects\Lab14_Despliegue\Lab14_Despliegue\bin\Release\net10.0\publish\Lab14_Despliegue.pdb
